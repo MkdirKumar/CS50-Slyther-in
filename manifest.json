@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "CS50-Slyther-in",
+    "description":"Snake game",
+    "version":"1.0",
+    "browser_action":{
+          "default_icon":"slyther-in.png",
+          "default_popup":"index.html"
+    },
+    "permissions":["activeTab"]
+
+}
